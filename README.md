@@ -20,7 +20,7 @@ https://elifesciences.org/articles/71969
 
 ```julia
 using Pkg
-Pkg.add(url="https://github.com/pierrepierrepierre/ZetaJu")
+Pkg.add(url="https://github.com/PierreLeMerre/ZetaJu")
 ```
 
 Or for local development:
