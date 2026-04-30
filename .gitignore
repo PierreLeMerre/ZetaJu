@@ -1,0 +1,14 @@
+# Julia
+Manifest.toml
+*.jl.cov
+*.jl.*.cov
+*.jl.mem
+/docs/build/
+/docs/site/
+
+# Julia package dev
+.julia/
+
+# OS
+.DS_Store
+Thumbs.db
