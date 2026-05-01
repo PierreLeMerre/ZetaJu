@@ -2,7 +2,7 @@
 
 Julia port of the ZETA-test family for neuronal responsiveness.
 
-The original code is written in MATLAB by Jorrit Montijn (https://github.com/Herseninstituut/zetatest). The most up-to-date Python port is at https://github.com/Herseninstituut/zetapy, maintained by Guido Meijer and Alexander Heimel. This Julia port was produced with Claude; details of the porting process are in [PORTING_PROMPT.md](PORTING_PROMPT.md).
+The original code is written in MATLAB by Jorrit Montijn (https://github.com/Herseninstituut/zetatest). The most up-to-date Python port is at https://github.com/Herseninstituut/zetapy, maintained by Guido Meijer and Alexander Heimel. This Julia port was produced with Claude (Sonnet 4.6); details of the porting process are in [PORTING_PROMPT.md](PORTING_PROMPT.md).
 
 The pre-print describing data-stitching, the time-series ZETA-test, and the two-sample tests:
 https://www.biorxiv.org/content/10.1101/2023.10.30.564780v1
